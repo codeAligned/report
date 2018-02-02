@@ -215,7 +215,7 @@ h2.clean:after {
     display: block;
     width: 28px;
     height: 28px;
-    background: url(pagination_default.png) no-repeat center center;
+    background: url(../assets/pagination_default.png) no-repeat center center;
     background-size: 20px 20px;
     opacity: 0.4;
     cursor: pointer;
@@ -238,7 +238,7 @@ h2.clean:after {
 }
 
 #fxd .pagination li a.selected {
-    background-image: url(pagination_active.png);
+    background-image: url(../assets/pagination_active.png);
     opacity: 1;
     cursor: default;
 }
@@ -250,25 +250,25 @@ h2.clean:after {
 }
 
 #fxd .pagination li.twitter a {
-    background-image: url(share_twitter.png);
+    background-image: url(../assets/share_twitter.png);
     padding-bottom: 6px;
     opacity: 1;
 }
 
 #fxd .pagination li.linkedin a {
-    background-image: url(share_linkedin.png);
+    background-image: url(../assets/share_linkedin.png);
     padding-bottom: 4px;
     opacity: 1;
 }
 
 #fxd .pagination li.facebook a {
-    background-image: url(share_facebook.png);
+    background-image: url(../assets/share_facebook.png);
     padding-bottom: 4px;
     opacity: 1;
 }
 
 #fxd .pagination li.podcast a {
-    background-image: url(share_podcast.png);
+    background-image: url(../assets/share_podcast.png);
     padding-bottom: 4px;
     opacity: 1;
 }
@@ -306,7 +306,7 @@ h2.clean:after {
     top: 6%;
     left: 100%;
     margin-left: -140px;
-    background: url(hackerrank-logo-white@2x.png) no-repeat center center;
+    background: url(../assets/hackerrank-logo-white@2x.png) no-repeat center center;
     background-size: 57px 57px;
 }
 
@@ -327,7 +327,7 @@ a.logo:hover {
 .share a {
     display: inline-block;
     height: 72px;
-    background: url(share_twitter.png) no-repeat -2px 26px;
+    background: url(../assets/share_twitter.png) no-repeat -2px 26px;
     background-size: 20px 20px;
     padding-left: 22px;
     padding-right: 16px;
@@ -340,11 +340,11 @@ a.logo:hover {
 }
 
 .share a.linkedin {
-    background-image: url(share_linkedin.png);
+    background-image: url(../assets/share_linkedin.png);
 }
 
 .share a.facebook {
-    background-image: url(share_facebook.png);
+    background-image: url(../assets/share_facebook.png);
 }
 
 
@@ -403,7 +403,7 @@ a.logo:hover {
     position: absolute;
     left: 160px;
     top: 10%;
-    background: url(hackerrank-logo@2x.png);
+    background: url(../assets/hackerrank-logo@2x.png);
     background-size: 100%;
     z-index: 2;
 }
@@ -414,7 +414,7 @@ a.logo:hover {
     left: 0;
     width: 100%;
     height: 100%;
-    background: url(fractal_exterior@2x.jpg) no-repeat fixed right center;
+    background: url(../assets/fractal_exterior@2x.jpg) no-repeat fixed right center;
     background-size: contain;
     opacity: 0.01;
     transition: opacity 4s;
@@ -449,7 +449,7 @@ p.credit a {
 /* 01b Prologue */
 
 #prologue {
-    background: #1ba94c url(fractal_exterior2@2x.jpg) no-repeat right center;
+    background: #1ba94c url(../assets/fractal_exterior2@2x.jpg) no-repeat right center;
     background-size: contain;
 }
 
@@ -506,7 +506,7 @@ a.subscribe:hover {
     display: block;
     width: 190px;
     height: 42px;
-    background: url(hackerrank-logo@2x.png);
+    background: url(../assets/hackerrank-logo@2x.png);
     background-size: 100%;
 }
 
@@ -533,7 +533,7 @@ a.subscribe:hover {
 /* backgrounds */
 
 #contents {
-    background: #576871 url(fractal_interior2@2x.jpg) fixed no-repeat top right;
+    background: #576871 url(../assets/fractal_interior2@2x.jpg) fixed no-repeat top right;
     background-size: contain;
 }
 
