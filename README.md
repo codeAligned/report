@@ -17,20 +17,21 @@ This is inspired by HackerRank's 2018 developer skills site.
 ### To Do List
 
 
-- [x] Cloning html 
-- [x] Cloning and commenting the css and JS
-- [ ] Write a proper documentation of the work.[documento](https://github.com/tamzi/report/docs/documento.md)
-- [ ] Updating the word content of the website
+- [x] Cloning html. 
+- [x] Cloning and commenting the css and JS.
+- [ ] Updating the JS to make it work.
+- [ ] Write a proper documentation of the work.[documento](https://github.com/tamzi/report/docs/documento.md).
+- [ ] Updating the word content of the website.
 - [ ] Extending the clone by:
-    - [ ] Adding new images
-    - [ ] Adding new text
-    - [ ] Adding new font face
-    - [ ] Adding video
-    - [ ] Adding a framework
-    - [ ] Adding 2 new sections
-    - [ ] Adding 2 new menu item that works
-- [ ] Replacing background images with text
-- [ ] Changing the Logo
+    - [ ] Adding new images.
+    - [ ] Adding new text.
+    - [ ] Adding new font face.
+    - [ ] Adding video.
+    - [ ] Adding a framework.
+    - [ ] Adding 2 new sections.
+    - [ ] Adding 2 new menu item that works.
+- [ ] Replacing background images with text.
+- [ ] Changing the Logo.
 
 
 
