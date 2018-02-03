@@ -4,9 +4,6 @@
 **iReport** helps in building a report presentation site.
 This is inspired by HackerRank's 2018 developer skills site.
 
-### How it works
-Just scroll down to see more.
-
 ### TECHNICAL
 
 
@@ -21,7 +18,8 @@ Just scroll down to see more.
 
 
 - [x] Cloning html 
-- [x] Cloning and commenting the CSs and JS
+- [x] Cloning and commenting the css and JS
+- [ ] Write a proper documentation of the work.[documento](https://github.com/tamzi/report/docs/documento.md)
 - [ ] Updating the word content of the website
 - [ ] Extending the clone by:
     - [ ] Adding new images
@@ -51,15 +49,10 @@ For any concerns, please open an [issue{edit this}](https://github.com/tamzi/rep
 * see [LICENSE](https://github.com/tamzi/report/LICENSE.md) file
 
 ## Version 
-* Version X.Y  DATE 12/2/2019
+* Version 1  DATE 3/2/2018
 
 
 
-If its open source:
-
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-200x33.png?v=103)](https://github.com/ellerbrock/open-source-badge/)  
-
-If the Licence is MIT:
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)]()
 
