@@ -1,35 +1,11 @@
 
-## Website Name 
+## iReport
 
-**App Name** is an app for this an that wand generallay aimas to bla bla bla.
+**iReport** helps in building a report presentation site.
+This is inspired by HackerRank's 2018 developer skills site.
 
-### Project's table of Contents
-
-Folders:
-    * screenshots -  
-    * ProjectFolder - 
-
-Files:
-    - contributing.md - 
-    - releaseNotes.md - 
-
-###
-Short description of how it works: maybe a small user flow description.
-
-
-#### Hosted?
-Is the website hosted? IT SHOULD.
-there are a couple of free github hosted sites:
-    * [surge](https://surge.sh/)
-    * [netlify](https://www.netlify.com/)
-    * [cloudcanon](https://cloudcannon.com/) - For jekyll sites
-    * [now](https://zeit.co/now)
-
-Do you know others, [let us know here](https://github.com/tamzi/ReadMe-MasterTemplates/issues)
-
-Add the link to where it is hosted at the top of your project
-
-![Link your project location](https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/website/art/web.png "Link your project!")
+### How it works
+Just scroll down to see more.
 
 ### TECHNICAL
 
@@ -37,16 +13,12 @@ Add the link to where it is hosted at the top of your project
 #### How instal/ use it
 #### Running the project
 
-You can:
-    a. clone the project and compile it yourself (Most up to date)
-    b. Run the already compiled version on the(the proect comes with an apk folderwith various apk versions), 
     
 
 #### ProTip
 
 ### To Do List
 
-Add the various things that you are working on.  
 
 - [x] Cloning html 
 - [x] Cloning and commenting the CSs and JS
@@ -54,6 +26,7 @@ Add the various things that you are working on.
 - [ ] Extending the clone by:
     - [ ] Adding new images
     - [ ] Adding new text
+    - [ ] Adding new font face
     - [ ] Adding video
     - [ ] Adding a framework
     - [ ] Adding 2 new sections
@@ -66,16 +39,16 @@ Add the various things that you are working on.
 
 #### CONTRIBUTING
 
-I would/ We'd love to have your help in making  **{this app (replace with name of your project)}** better. The project is still very incomplete, but if there's an issue you'd like to see addressed sooner rather than later, let me(/us) know. 
+I would love to have your help in making  **{this app (replace with name of your project)}** better. The project is still very incomplete, but if there's an issue you'd like to see addressed sooner rather than later, let me know. 
 
-Before you contribute though read the contributing guide here: [COntributing.md{edit this}](https://github.com/YourUserNameHere/ProjectName/contributing.md)
+Before you contribute though read the contributing guide here: [Contributing.md{edit this}](https://github.com/tamzi/report/docs/contributing.md)
 
-For any concerns, please open an [issue{edit this}](https://github.com/YourUserNameHere/ProjectName/issues), or JUST, [fork the project and send a pull request{edit this}](https://github.com/YourUserNameHere/ProjectName/pulls). 
+For any concerns, please open an [issue{edit this}](https://github.com/tamzi/report/issues), or JUST, [fork the project and send a pull request{edit this}](https://github.com/tamzi/report/pulls). 
 
 
 
 ## License 
-* see [LICENSE](https://github.com/tamzi/ProjectName/LICENSE.md) file
+* see [LICENSE](https://github.com/tamzi/report/LICENSE.md) file
 
 ## Version 
 * Version X.Y  DATE 12/2/2019
@@ -93,5 +66,10 @@ If the Licence is MIT:
 
 ## Contact information
 
-For personal feedback or questions feel free to contact me via the mail address, which is mentioned on my [Github profile](link (https://github.com/tamzi). If you have found any bugs or want to post a feature request please use the [bugtracker](https://github.com/tamzi/ReadMe-MasterTemplates/issues) to report them.
+For:
+ - personal feedback or questions
+ - any bugs found 
+ - Posting a feature request 
+ 
+ please use the [bugtracker](https://github.com/tamzi/report/issues) to report them.
 
