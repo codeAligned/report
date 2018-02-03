@@ -48,13 +48,18 @@ You can:
 
 Add the various things that you are working on.  
 
-- [ ] Adding bounce animations to the home page
-- [x] Creating a gallery
-- [x] Updating the website to the Maa 2.0 framework
-- [x] Praying that this thing works
-- [ ] Adding various potatoes to be eaten in the couch
-- [ ] Building a castle in the air
-- [ ] Listening to new musci from my favourite artist
+- [x] Cloning html 
+- [x] Cloning and commenting the CSs and JS
+- [ ] Updating the word content of the website
+- [ ] Extending the clone by:
+    - [ ] Adding new images
+    - [ ] Adding new text
+    - [ ] Adding video
+    - [ ] Adding a framework
+    - [ ] Adding 2 new sections
+    - [ ] Adding 2 new menu item that works
+- [ ] Replacing background images with text
+- [ ] Changing the Logo
 
 
 
