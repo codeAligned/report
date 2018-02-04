@@ -20,8 +20,7 @@ This is inspired by HackerRank's 2018 developer skills site.
 - [x] Cloning html. 
 - [x] Cloning and commenting the css and JS.
 - [ ] Updating the JS to make it work:
-    - [ ] Embed Graphs are using [infogram](https://e.infogram.com/js/dist/embed-loader-min.js) Move these to have offline capability
-    
+    - [ ] Embed Graphs are using [infogram](https://e.infogram.com/js/dist/embed-loader-min.js) Move these to have offline capability.
 - [ ] Write a proper documentation of the work.[documento](https://github.com/tamzi/report/docs/documento.md).
 - [ ] Updating the word content of the website.
 - [ ] Extending the clone by:
@@ -36,25 +35,11 @@ This is inspired by HackerRank's 2018 developer skills site.
 - [ ] Changing the Logo.
 
 
-
-
-#### CONTRIBUTING
-
-I would love to have your help in making  **{this app (replace with name of your project)}** better. The project is still very incomplete, but if there's an issue you'd like to see addressed sooner rather than later, let me know. 
-
-Before you contribute though read the contributing guide here: [Contributing.md{edit this}](https://github.com/tamzi/report/docs/contributing.md)
-
-For any concerns, please open an [issue{edit this}](https://github.com/tamzi/report/issues), or JUST, [fork the project and send a pull request{edit this}](https://github.com/tamzi/report/pulls). 
-
-
-
 ## License 
 * see [LICENSE](https://github.com/tamzi/report/LICENSE.md) file
 
 ## Version 
 * Version 1  DATE 3/2/2018
-
-
 
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)]()
