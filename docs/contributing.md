@@ -1,7 +1,7 @@
 Contributing to {{Put project name here}}
 ===
 We'd love to accept your patches!
-To contribute to {{Put project name here}} simply open a pull request against the [develop branch](https://github.com/yourProfile/YourProject/tree/develop)
+To contribute to iReport simply open a pull request against the [develop branch](https://github.com/yourProfile/YourProject/tree/develop)
 
 Ensure you have a develop branch before you place the link.
 
