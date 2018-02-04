@@ -19,7 +19,9 @@ This is inspired by HackerRank's 2018 developer skills site.
 
 - [x] Cloning html. 
 - [x] Cloning and commenting the css and JS.
-- [ ] Updating the JS to make it work.
+- [ ] Updating the JS to make it work:
+    - [ ] Embed Graphs are using [infogram](https://e.infogram.com/js/dist/embed-loader-min.js) Move these to have offline capability
+    
 - [ ] Write a proper documentation of the work.[documento](https://github.com/tamzi/report/docs/documento.md).
 - [ ] Updating the word content of the website.
 - [ ] Extending the clone by:
